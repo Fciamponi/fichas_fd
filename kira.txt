@@ -1,0 +1,356 @@
+﻿[QUOTE][b]Nome:[/b] Kira
+[b]Clã/Sobrenome:[/b] Tsurasawa
+[b]Idade:[/b] 18
+[b]Vila Natal:[/b] Konoha
+[b]Tipo Sanguíneo:[/b] O-
+[b]Elemento de Chakra:[/b] Doton
+
+[b]Rank:[/b] Jounin
+
+[align=center]============= Conteúdo Interpretativo =============[/align]
+
+[b]Personalidade:[/b]
+
+Kira é uma pessoa bem fria e distante, evitando se envolver com as pessoas desde a traição de seu ex-melhor amigo. Seu jeito de ser faz com que ele seja bastante analítico e calculista, dando preferência a lógica do que emoção na hora de tomar suas decisões. Porém isso não quer dizer que ele não tenha seus sentimentos, pelo contrário… Kira criou um tipo de bloqueio emocional em si mesmo, porém eventualmente essas emoções conseguem encontrar um escape. Isso faz com que ocasionalmente ele tenha explosões de emoção, que podem acabar pegando algumas pessoas de surpresa. Apesar de sua desconfiança e aparente desapego com as pessoas, Kira fez um juramento para sí próprio que nunca mais deixaria algum amigo ou companheiro morrer enquanto ainda estivesse de pé. 
+
+[b]Aparência:[/b]
+
+A aparência de Kira, como um todo, não é algo muito incomum. Possui pele clara, cabelos castanho bem escuros. Considerando seu treinamento físico intenso possui um porte atlético bem desenvolvido, porém sua altura e peso são dentro da média. As únicas características chamativas de sua aparência são seus olhos, que são em um tom amarelo-dourado, e a grande cicatriz que carrega em sua face, cobrindo todo o quarto superior direito de sua face e se estendendo à lateral da cabeça e chegando até a orelha.
+
+[b]Características Notáveis:[/b]
+
+-Possui uma grande cicatriz que cobre o quarto superior esquerdo de seu rosto e lateral da cabeça.
+
+-Ele tem pouquíssimo tato social, não sabemedir bem suas palavras e muitas vezes acaba sendo “brutalmente honesto”.
+
+-A única pessoa que ele ainda se sente próximo, é seu mentor e sensei Kasara Kaeshi, apesar de ainda assim manter uma relação distante com este.
+
+-Kira é uma exceção entre os Iryou-nin, pois conseguiu aprender a utilizar Dotons juntamente com seu treinamento médico. No entanto, acabou sacrificando o aprendizado do Tsunadeken para tal.
+
+-Apesar da pouca idade, é um bem-sucedido cirurgião do Hospital de Konoha. Sua área de atuação principal é em procedimentos de emergência.
+
+[align=center]============= Atributos Físicos =============[/align]
+
+[b]Força:[/b] 22
+[b]Agilidade:[/b] 16
+[b]Destreza:[/b] 16
+[b]Vigor:[/b] 22
+
+[align=center]============= Atributos Shinobi =============[/align]
+
+[b]Percepção:[/b] 12
+[b]Proficiência:[/b] 16
+
+[b]Controle de Chakra:[/b] 20
+[b]Chakra:[/b] 15
+[b]Ninjutsu:[/b] 15
+
+[b]Pontos:[/b]
+
+[align=center]============= Armas =============[/align]
+
+[b]Pílula do Soldado[/b]
+São pequenas pílulas tomadas pelos Shinobis em missões muito desgastantes. Essas pílulas são feitas de uma vitamina especial que permite que um soldado lute constantemente. São usadas principalmente pelos cães e membros do Clã Inuzuka, mas podem ser utilizadas por qualquer Shinobi.
+Usar uma pílula 'pega emprestado' vitalidade que evita cansaço, mas não o deixa imune. Apenas dá um boost temporário que ignora efeitos comuns do corpo; não salvará o personagem de ferimentos ou efeitos muito fortes, e tem certo risco em seu uso, que será aproveitado por Narradores.
+[u]Custo: 6 Pontos de Equipamento por 4 pilulas.[/u]
+
+[b]Bolsa Médica[/b] [u](10 Pontos de Equipamento)[/u]
+Uma bolsa extra com bandagens, curativos, agulhas, linhas, injeções emergenciais e substâncias usadas em atendimentos emergenciais ou rápidos de um Iryou-Nin. É um artigo muito importante para quem pratica Primeiros-Socorros também. Há 20 senbon (Agulhas) dentro da mesma, além de 6 bisturis de alto corte.
+
+[b]Kunai x5[/b]: (3 Pontos de Equipamento)
+Espécie de adaga que possui um cabo curto com um anel na ponta. Seu design possibilita realizar disparos de longa distância com precisão.
+
+[b]Selo explosivo x2:[/b] [u](8 Pontos de Equipamento)[/u]
+Selo de papel que pode ser colado em praticamente qualquer local. O usuário normalmente define o mecanismo de detonação; e quando o faz, gera uma forte explosão de 1m².
+
+[b]Pergaminho Pequeno: x1[/b] [u](2 Pontos de Equipamento)[/u]
+Um pergaminho comum de 150x15cm. Usado geralmente para selamentos.
+
+[b]Linha de Aço x15m:[/b] [u](2 Pontos de Equipamento)[/u]
+Fio feito de liga metálica maleavel; quase como um fio normal.
+
+[align=center]============= Vantagens & Desvantagens =============[/align]
+
+[b]Ninja Médico[/b]: -1 Ponto em atributos Shinobi
+
+[b]O Aprendiz:[/b] [u](-3 pontos)[/u]
+Aprende as coisas com muita facilidade, observam e calculam tudo muito bem. Detalhistas e perspicazes.
+
+[b]Aparência horrível:[/b] [u](+1 pontos)[/u]
+Alguma parte do seu corpo é completamente desfigurada (ou o corpo todo), causando aversão das outras pessoas, e um trauma para você. Normalmente anda com essa parte coberta e tem pânico de que outras pessoas a vejam. Sua aparência nunca agradara as pessoas e geralmente a pessoa que tem essa desvantagem é muito tímida e tem dificuldades de se comunicar.
+
+[b]Inimigo:[/b] [u](+2 ponto)[/u]
+É o contrário de Aliado. Você tem um inimigo que está sempre tentando derrotar ou acabar com você. Esse inimigo pode ser um NPC ou um usuário e você nunca sabe quando ele vai aparecer.
+Caso um Inimigo seja destruído para sempre, ele pode ser substituído por outro mais poderoso. O personagem não recebe pontos extras por isso. 
+
+[align=center]============= Perícias =============[/align]
+
+[b]Armadilhas:[/b] 0
+[b]Rastreamento:[/b] 0
+[b]Primeiros Socorros:[/b] 5
+[b]Política:[/b] 1
+[b]Ciências:[/b] 2
+[b]Clãs:[/b] 2
+[b]Eletrônicos:[/b] 1
+[b]Sobrevivência:[/b] 1
+
+[align=center]============= Jutsus =============[/align]
+
+[b]Rank D/C:[/b]
+
+[b]Asshou:[/b]
+Técnica de taijutsu onde o ninja mergulha contra o chão e desfere um poderoso golpe com o punho, muitas vezes enterrando-o no chão. O quanto maior a força do ninja, maior o impacto, podendo muitas vezes jogar os inimigos longe pelo deslocamento de ar ou onda de choque causada.
+
+[b]Doton, Doroku Gaeshi:[/b]
+Ninjutsu onde o usuário enterra a mão no chão e ergue uma barreira sólida de terra e rochas e tem como propósito agüentar um ataque físico. Quanto maior a habilidade do ninja, mais resistente é a barreira.
+
+[b]Gouken:[/b]
+Estilo de luta baseado em causar danos externos e quebrar ossos, usando a força para ataques diretos contra o oponente. É preciso que o usuário seja um shinobi com grande força fisica para utilizar esse estilo efetivamente.
+
+[b]Shunshin no Jutsu:[/b]
+Este jutsu é uma técnica de movimento em alta velocidade, permitindo que um ninja cubra grandes distâncias a uma velocidade quase indetectável para o olho normal. Para um observador de fora, parece como se o usuário tivesse se teletransportado. Nessa técnica o usuário utiliza o chakra para revitalizar o corpo temporariamente e se mover a uma velocidade extremamente alta. A quantidade total de chakra gasto depende da distância percorrida pelo usuário até o alvo. Normalmente utiliza-se uma pequena nuvem de fumaça (criada pela própria técnica) para encobrir o movimento. Cada uma das vilas ocultas tem diferentes variações do Shunshin no Jutsu, os quais envolvem algum elemento extra além do próprio movimento. O elemento extra normalmente é algum tipo de objeto ou elemento característico da vila. Por exemplo, shinobis de Sunagakure utilizam areia para cobrir seus movimentos (砂 瞬 身, Suna-Shunshin). Outras variedades incluem a névoa utilizada por ninjas de Kirigakure (雾 瞬 身,Kiri-Shunshin), e as folhas utilizadas por shinobis de Konohagakure (木 ノ 葉 瞬 身, Konoha-Shunshin). Lembrando que por ser um jutsu de movimentação ele é bastante dependente da velocidade corporal do usuário, sendo apenas um efeito, e portanto, não impedindo outro shinobi de perceber ou se preparar contra essa técnica.
+
+[b]Fuuinjutsu:[/b]
+Uma técnica de selamento genérica e básica, não possui nenhum nome específico e é aprendida por quase todos os shinobis. O usuário primeiro desenha os símbolos do selo em um pergaminho (ou qualquer outra superfície), que pode ser preparado previamente, e então sela o objeto de sua escolha dentro do pergaminho. Devido a ser uma técnica genérica, a diversidade de alvos que podem ser selados no pergaminho é enorme, porem cada “alvo” possui um tipo de selo específico portanto não se pode usar o mesmo selo para selar 2 objetos diferentes. Utilizando-se dessa técnica, podem ser selados desde armas e equipamentos a até mesmo jutsus, podendo ser guardados para utilização posterior. A única limitação é que, independente do que for selado, apenas um objeto por selo pode ser guardado. O gasto de chakra depende do tamanho/poder do objeto/técnica a ser selado.
+
+[b]Meshii Touben:[/b]
+Estilo de Luta que é destinado a lutar as cegas, baseando-se nos sons e reflexos. Extremamente útil quando a visão do shinobi é inutilizada por algum genjutsu ou algo do tipo.
+
+[b]Kai:[/b]
+Um Jutsu que destrói/cancela um genjutsu aplicado. Para ser bem sucedido, é feita uma comparação entre o "Genjutsu do Usuário x Genjutsu do Alvo", levando-se em consideração a interpretação dos dois jogadores.
+
+[b]Chakra No Mesu: [/b]
+Usada primeiramente para a cirurgia em um campo de batalha. O ninja concentra muito chakra em torno de sua mão criando uma lâmina azulada e triangular que age como uma luva com a capacidade de ser projetada para a frente, capaz de rasgar músculos, artérias, ossos e até mesmo de afetar um oponente internamente apenas. Com ao menos 11 em Controle de Chakra, o Shinobi torna-se capaz de projetar a lâmina cada vez mais longe, como uma grande lâmina cortante triangular, e de usá-la no meio do combate como uma arma letal que pode cortar até mesmo objetos ou arrancar partes de um inimigo. Nota-se também que quanto maior a percepção (seja por pontos, doujutsu ou outros fatores), maior seria a capacidade de um iryou de, por exemplo, cortar artérias ou tendões de um inimigo internamente sem de fato causar danos externos ou em outros pontos internos não focados. Portanto, é uma técnica de precisão muito alta.
+
+[b]Chiyute no Jutsu: Karui[/b]
+É realizado focalizando chakra na palma das mãos, para formar uma bola de chakra cor esmeralda que serve para instruir as células do corpo do alvo a se reproduzir e curar os ferimentos mais leves, como cortes, escoriações, etc.
+
+[b]Konoha Kage Buyou: [/b]
+Essa técnica de Taijutsu é usada para deixar o oponente numa posição aérea vulnerável. O ninja irá jogar toda a sua concentração muscular nas pernas, disparando em um ponto cego ou vulnerável de seu inimigo que será lançado ao ar.
+
+[b]Doton, Dochuu Eigyo:[/b]
+Este ninjutsu é amplamente utilizado. Após realizar uma série de selos e elevar seu chakra, o ninja se enterra no chão onde ele pode se mover livremente como se estivesse na superfície. Seu deslocamento não é percebido na superfície.
+
+[b]Rank B:[/b]
+
+[b]Gangeki:[/b]
+O usuário concentra todo o seu chakra em um ponto do corpo para dar um forte golpe e devastador.
+
+[b]Doton, Douryuu Dan[/b]
+Jutsu utilizado para criar um Dragão de Terra/Lama que cospe projéteis de lama. Pode ser usado em conjunto com Katon para que os projéteis de Lama possam ser incendiados. Dependendo do Nin do Usuário esse dragão fica tão grande, que apenas a cabeça dele é posta para fora da terra quando ele é formado. Seus projéteis podem ficar grandes como árvores, mas o chakra consumido é extremo.
+
+[b]Saikan Chuushutsu no Jutsu:[/b]
+Jutsu utilizado por médicos para retirar veneno do corpo de um paciente. O shinobi infunde chakra em um líquido qualquer, e insere no paciente. O mesmo líquido é utilizado como mediador para tirar o veneno das células, sendo removido após o tratamento.
+
+[b]Doton, Domu:[/b]
+O usuário faz o chakra fluir através de todas as partes do seu corpo, endurecendo a pele até ficar tão resistente quanto o aço. Isto aumenta seu poder defensivo ao máximo. A pele do usuário se torna muito mais escura, de uma cor quase negra. Além disso, o poder destrutivo dos ataques físicos é aumentado, tornando esta uma técnica para todos os fins. Porem essa técnica ainda possui um ponto fracos, técnicas Raiton são capazes de quebrar sua defesa e causar danos ao usuário.
+
+[b]Doton, Tokubetsu Kumoten:[/b]
+Cria uma nuvem marrom ao redor do ninja, onde quem entra nela tem seu corpo impregnado de terra, dificutando os movimentos, ao ficar muito tempo nessa nevoa e a pessoa não tiver um corpo resistente, o corpo da pessoa fica praticamente imovel. Essa tecnica é boa também para prejudicar a visão e o olfato do inimigo.
+
+[b]Kanashibari no Jutsu:[/b]
+Essa técnica é quase um taijutsu, por ser utilizado muito para paralisar animais ou indivíduos com agulhas. O shinobi estuda o corpo do adversário ou alvo, e concentrando chakra nas agulhas, atinge pontos estratégicos, paralisando o oponente e ganhando tempo para outras ações. O oponente atingido pela técnica ainda pode resistir com força de vontade e se livrar da técnica através da dor, se ferindo(se perfurando com uma Kunai, por exemplo).
+
+[b]Tarentsu:[/b]
+Técnica de taijutsu que é um soco bem mais poderoso que o normal. Sem usar chakra, ele envolve mais técnica adequada e local onde atinge, capaz de quebrar rochas com facilidade se dominado.
+
+[b]Rank A:[/b]
+
+[b]Shousen no Jutsu:[/b]
+Técnica em que o Iryou-Nin manipula seu Chakra de forma que projete-o, como a energia esverdeada dos Mednin, em uma capa ao redor das mãos. O objetivo da mesma é transformar essa reação em energia vital para o paciente, curando-o de vários tipos de ferimentos por influenciar a geração de células no corpo alvo, regenerando até mesmo ossos quebrados. Dessa forma, variando com o poder do Ninja Médico, essa técnica ganha mais eficiência, e podem ser realizadas até cirurgias usando-a de base.
+Requer ao menos 12 em Controle de Chakra
+
+[b]Infuuin: Kai:[/b]
+Vagas de Players Mednin com esse Jutsu Disponíveis no Momento: 1
+O usuário guarda chakra não utilizado. Este chakra se torna comprimido e selado no corpo. Quando necessário, o shinobi pode trazer a tona o chakra guardado para qualquer propósito que queira. O chakra comprimido potencializa o jutsu em que é empregado, mas é completamente consumido. O Shinobi em questão sempre começará uma missão com 95% de Chakra, mas poderá liberar [3% x (Controle de Chakra + Chakra)] de quantidade de Chakra ao estourar seu selo.
+
+[b]Lotus:[/b]
+Um estilo de luta que envolve usar a circulação de chakra interna para potencializar os movimentos do corpo, gerando velocidade terminal avançada. Exige-se um bom controle de Chakra. O usuário acaba se tornando muito veloz aos olhos de alguém que não tem capacidade de acompanhá-lo, por usar de forma acentuada tudo o que seu corpo tem para oferecer fisicamente. Isso torna impossível usar outras habilidades que acentuam o corpo junto com o Lotus (Com exceção dos portões de Chakra que praticamente envolvem o Lotus em si). Ou seja, a velocidade não "surge do nada"; é simplesmente uma combinação de boa utilização generalizada das capacidades físicas e de controle do Shinobi.
+
+[b]Rank S:[/b]
+
+[b]Doton: Byakko no Ikari (土遁: 白虎 の 怒り)[/b]
+[b]Rank:[/b] S – Exclusivo
+[b]Descrição:[/b] Após realizar os selos, o usuário utiliza as os elementos do solo ao seu redor (tais como pedras, rochas, detritos e etc…) para formar uma armadura natural que cobre o seu corpo, tornando-se uma espécie de golem. Essa técnica aumenta drasticamente a força física e a resistência do usuário, sendo também é possível reparar danos na armadura enquanto o usuário possuir chakra e matéria-prima disponível para tal. A técnica evolui em conjunto com o seu usuário, possuindo três níveis distintos:
+
+[b][URL=https://s-media-cache-ak0.pinimg.com/originals/a5/f9/18/a5f9183aab7a73fe5c2876784e4dc85f.jpg][u]Shindō (震動):[/u][/URL][/b] O usuário consegue se transformar em um golem de aproximadamente 5 metros de altura, ganhando um aumento significativo em seu poder destrutivo e resistência. Nesse estado os golpes do usuário são capazes de esmagar rochas com facilidade e ele se torna invulnerável a maioria dos ataques físicos.
+[u]Controle de Chakra:[/u] 20; [u]Chakra:[/u] 15; [u]Ninjutsu:[/u] 15; [u]Proficiência:[/u] 15
+
+[b][URL=https://s-media-cache-ak0.pinimg.com/originals/bb/71/df/bb71df4beb9ccfe4cd8a0a29089a5f82.png][u]Jishin (地震)[/u][/URL]:[/b] O segundo estágio da técnica aumenta sua capacidade destrutiva e o tamanho de seu constructo. Nesse estágio o usuário transforma-se em um golem de aproximadamente 10 metros de altura (tamanho próximo de um prédio pequeno).
+[u]Controle de Chakra:[/u] 25; [u]Chakra:[/u] 20; [u]Ninjutsu:[/u] 20; [u]Proficiência:[/u] 20
+
+[b][URL=https://i.warosu.org/data/tg/img/0485/37/1469927743089.jpg][u]Hakyoku (破局)[/u][/URL]:[/b] Fazendo jus ao nome, o estágio final da técnica transforma o usuário em um golem gigantesco. Nesse estado, tanto o tamanho quanto o poder destrutivo e resistências adquiridas podem ser comparadas à de um bijuu. O gasto de chakra para manter esse estado é massivo, só podendo ser utilizado após a liberação do Infuuin: Kai.
+[u]Controle de Chakra:[/u] 40; [u]Chakra:[/u] 30; [u]Ninjutsu:[/u] 20; [u]Proficiência:[/u] 20; [u]Infuuin: Kai[/u]
+
+[b]Ninpou: Souzou Saisei[/b]
+A técnica de nível mais alto de um Mednin. Consiste em liberar uma grande parcela de seu Chakra, para formar uma aura ao redor do corpo, que representa uma regeneração instantânea e imediata de qualquer dano causado ao corpo. Torna o seu usuário a pior de todas as escolhas para se tentar matar, pois o usuário se torna praticamente imortal durante sua duração. Uma quantidade enorme de Chakra é necessário para utilização dessa técnica. Após isso, calcula-se uma perda de [300% / Controle de Chakra] de Chakra. É uma técnica proibida, e que cobra caro por seu uso. A vitalidade do usuário cai aos poucos e a duração da técnica é dependente de Chakra usado e VIGOR, dando sobrevivência mas custando caro. A Stamina retorna ao seu máximo e o Chakra regenera completamente a "Barra de HP" para impactos tomados. Pode ser usado enquanto o Chakra suportar a pressão da habilidade, mas pouquíssimos Mednin são capazes de utilizar essa técnica Rank S. É um Hijutsu.
+Exige-se História Excelente e uma justificativa muito boa para ter a habilidade
+
+[align=center]============= História =============[/align]
+
+[b]Capítulo 1: Os primeiros anos[/b]
+
+A vida nunca é fácil, especialmente quando se trata do mundo shinobi. Morte e despedidas são coisas fazem parte do cotidiano dos ninjas da vila de Konoha, apesar de nenhum shinobi aceitar de bom grado o véu que se deita sobre os olhos, alguns resolvem fazer tudo ao seu alcance para evitar que “aquela que sempre chega” se aposse das almas antes da hora. Essa luta era mais do que uma vontade, era uma verdadeira vocação, que um jovem casal de shinobis levaria até o trágico fim. Tsurasawa Sojiro e Nozomi eram um casal de shinobis médicos que atuavam a algum tempo em Konoha. Haviam se casado a alguns anos atrás e Nozomi havia dado a luz ao primeiro filho do casal, Kira, quando a 4ª Guerra Shinobi se abateu sobre o mundo. Seguindo a sua vocação, foram forçados a deixar o recém-nascido aos cuidados do avô paterno de Kira, Tsurasawa Hiro, enquanto foram fazer parte do corpo de médicos do conflito. Repetir os eventos que aconteceram naqueles quatro dias é desnecessário, uma vez que estão nos livros de história, porém aquele foi um evento que marcaria para sempre a história do jovem Kira… uma vez que aquele conflito foi o mesmo que levou a vida de seus pais.
+
+O garoto foi criado pelo seu avô, que apesar de já ser um viúvo, se esforçou para criar o garoto, uma vez que seus avós maternos já eram falecidos. Apesar dos pais não estarem ali, nunca faltou amor na vida do menino, seu avô foi também seu pai e melhor amigo… ao invés de tentar consolar e esconder, desde cedo o garoto sabia quem eram e o que havia acontecido com seus pais. Ele ouvia as histórias do velho e sentia um grande orgulho de seus falecidos pais, afinal eles haviam dado a própria vida para proteger inúmeras outras naquele conflito ferrenho. Assim como o senhor havia previsto, não demorou para que desde pequeno ele começasse a dizer que seu sonho era se tornar um grande médico assim como seus pais haviam sido. Ele sempre fora um garoto muito estudioso, aprendendo rapidamente a ler e escrever com seu avô e diversas outras coisas… seu passatempo favorito era ler livros, sobre os mais diversos assuntos, sempre aproveitando para aprender coisas novas. Quando chegou na idade adequada, aos 8 anos, seu avô o inscreveu na academia shinobi. 
+
+Apesar de sempre ter sido um estudante aplicado e rápido em aprender as coisas, foi na academia que seu talento se sobressaiu. Dentre as artes ninja, ele mostrou ter bastante aptidão 
+com Taijutsu e também Ninjutsu por seu preciso controle de chakra (para um estudante, é isso). Cruzou com várias pessoas durante seu caminho, porém ficou pouco tempo na academia e se graduou como Genin com apenas 10 anos de idade. Não fora um prodígio como Uchiha Itachi ou Hatake Kakashi, porém estava acima da média o suficiente para chamar a atenção de algumas pessoas. Sua turma de formatura não o recebeu muito bem, afinal eram quase 3 anos mais velho que ele, e quando se tem 10 e 13 anos essa diferença representa mundos de distância. Por fim, acabou integrando o Time 03 de Konoha juntamente com um garoto chamado Yamamoto Jin e Hyuuga Sawako. Juntos, eles estariam sob a tutela da sensei Yashima June.
+
+[b]Capítulo 2: A jornada começa[/b]
+
+Os 4 integrantes do Time 03 estavam reunidos para uma última comemoração na noite anterior do Chuunin Shiken. Haviam sido dois anos longos e muito difíceis, com várias brigas e percalços pelo caminho, porém finalmente haviam conseguido se unir e formar um verdadeiro time. Era uma ocasião alegre, estavam desestressando e aproveitando uma noite de diversão na Churrascaria de Konoha. Sawako virou-se para Jin e Kira, que estavam brigando para ver quem ficava com último pedaço de carne da grelha… porém não havia animosidade entre eles, afinal haviam ficado melhores amigos apesar da diferença de idade.
+
+[Sawako] -Hahahahaha… quem vê vocês dois assim, não ia acreditar que mal se olhavam a dois anos atrás. Não acha sensei?-
+
+[June] -Com certeza… quando vi vocês interagindo pela primeira vez, tive sérias dúvidas se iam conseguir passar no teste, muito menos formar um time. Mas, estão aqui agora… prestes a se tornarem Chuunins.-
+
+Os dois garotos se entreolharam rapidamente e deram uma breve risada, realmente as coisas haviam mudado bastante... Kira virou-se para as duas, que estavam sentadas do outro lado da mesa, e falou num tom leve.
+
+[Kira] -Nem fale, eu tinha odiado esse cara logo de cara… devia ter socado a cara dele mais forte.-
+
+Aproveitando-se da distração de seu amigo, Jin afanou o pedaço de carne e mandou ele para dentro da boca. Kira soltou um suspiro e seguiu com uma risada.
+
+[Kira] -Claro, algumas coisas nunca mudam… hahahahaha.-
+
+Foi a vez de Jin entrar na discussão, falando meio abafado com o pedaço de carne ainda na boca.
+
+[Jin] -Hmpf… é lógico que não gostei de você. Um pivete arrogante que acha que é melhor que todo mundo?! E você só me acertou porque pegou de surpresa… ninguém espera que uma criança seria tão boa em taijutsu.-
+
+[Kira] -Seeeeeei. Só desculpas… Quanto que está a marcação dos nossos duelos mesmo? Uns 30 a 0?-
+
+[Jin] -28 a UM!!! Não se esqueça da vez em que te peguei com meu Katon!!-
+
+[Kira] -Ah é… você sabe que te deixar ganhar por pena né??-
+
+[Jin] -Olha só quem está dando desculpas agora… HAHAHAHAHAHAHA-
+
+O quarteto começou a dar risada, levantaram os copos e fizeram um brinde enquanto contavam histórias do passado… lembraram-se do primeiro dia do time juntos…
+[hr]
+Era uma tarde ensolarada e quente em Konoha, os três genins que iriam formar o Time 03 estavam na área de treinamento 07 da vila. Porém o clima completamente hostil entre eles.  Kira e Jin estavam frente a frente, ambos com os punhos cerrados e praticamente espumando pela boca, envolvidos em uma calorosa discussão… entre eles, tentando separa-los e evitar um confronto físico, estava a jovem Hyuuga tentando apaziguar a situação.
+
+[Sawako] -Vamos lá, parem com isso… a sensei nem chegou ainda e já vão brigar? Se continuar assim vamos ser reprovados antes mesmo do teste começar!!-
+
+[Jin] -Que se dane o teste! Vou é meter a mão na cara desse fedelho!!-
+
+[Kira] -Queria ver você tentar! Uma fracassado desses… mal conseguiu passar no exame da academia! A vila devia ter vergonha de cogitar você para ser um ninja!-
+
+[Jin] -Quem você pensa que é, seu bostinha?!?! Só porque avançou alguns anos acha que é melhor que eu?? Porque não vem aqui e testa esse fracasso então… ou vai ficar escondido na saia da Sawako-chan??-
+
+[Sawako] -CHEGA!!! Kira, pare de agir como se fosse melhor que os outros… Jin, não caia na provocação dele!!-
+
+[Jin] -Provocação nada, ele está falando tanto… quero ver o que ele tem então.-
+
+[Kira] -É assim então?! Não vai chorar depois que estiver no chão!!-
+
+[Jin] -Até parece que você consegue, nanico!!-
+
+[Sawako] -Quer saber, eu desisto!! Se matem!!-
+
+Falou a garota enquanto se afastou dos dois e erguia as mãos como se estivesse entregando a situação aos céus. Ambos os garotos imediatamente aproveitaram a chance para partir para cima do outro. Jin tomou a inciativa e tentou acertar o primeiro golpe, um cruzado de direita que Kira se esquivou agaichando… este, por sua vez, avançou e encaixou um gancho que pegou na lateral esquerda do rosto de Jin. O mais velho recuou alguns passos e novamente se colocou em posição para partir para o ataque, enquanto Kira se preparava para o contra-golpe… porém o duelo de ambos foi interrompido pela sensei, que apareceu entre eles e arremessou um para cada lado com um rápido movimento. Com os dois garotos no chão, ela fez alguns selos e jogou uma onda de água fria, vinda de um lago próximo em ambos, que ficaram encharcados… os garotos se levantaram e olharam para a mesma, ainda incrédulos com a situação e tentando entender o que havia acontecido.
+
+[June] -Bom, agora que vocês esfriaram um pouco… podemos começar o teste?-
+[hr]
+
+[Sawako] -Hahahahahahaha!! Até hoje lembro da cara de vocês!!! Os dois olhando arregalados e completamente ensopados, com a sensei parada bem na frente… até hoje não sei como passamos naquele teste.-
+
+[Kira] -Meu avô me deu uma super-bronca quando cheguei em casa aquele dia. Mas o que eu podia fazer?!-
+
+[Jin] -Eu ainda acho que se aquela luta tivesse continuado, teria te derrubado fácil…-
+
+[Kira] -Aham… e os porcos iriam voar em seguida.-
+
+[June] -Hahahahaha… Vocês são bons shinobis, só precisavam de um empurrãozinho na direção certa… ainda bem que deu tudo certo. Foi um caminho longo até aqui,-
+
+Eles continuaram pela noite contando as histórias das missões e coisas engraçdas que haviam acontecido até aquele momento. Apesar de muita coisa boa, houveram coisas tristes também… cerca de 1 ano após o inicio da carreira de Kira como shinobi, seu avô faleceu e deixou-o orfão da unica familia de conhecera até então. Porém esse evento só serviu para estreitar ainda mais os laços que haviam entre eles, em especial Jin. Apesar da animosidade inicial, ambos aprenderam a se respeitar e quando Kira perdeu seu avô encontrou no garoto um amigo que o apoiou. Eles passaram a ter mais compreensão um com o outro, tornando-se grandes amigos e compartilhando os problemas… Kira eventualmente soube das dificuldades financeiras que a família de Jin passava, principalmente pelo tratamento que sua mãe necessitava. Apesar de ainda estar no ínicio de seus estudos na arte da medicina, Kira prometeu para seu amigo que iria fazer de tudo para descobrir uma cura para ela. Como se fosse em um piscar de olhos, mais um ano se passou e Kira encontrou no Time 03 uma nova família.
+
+[b]Capítulo 3: Confiança e Traição[/b]
+
+Kira agora estava com 14 anos e havia se tornado um Chuunin. Dividia agora as suas atividades no time com as obrigações no hospital, onde estava sob a tutela do atual diretor do hospital Kasara Kaeshi. Nos últimos anos havia conseguido desenvolver bem mais suas habilidades médicas, porém nem de longe era tão habilidoso quanto seu tutor. Atuava mais na área de emergência do hospital, atendendo os casos urgentes assim que chegavam ou então realizando triagens e avaliações como um “clínico geral”. Uma particularidade, que o destacava dos demais, é que apesar do treinamento médico ele também conseguia dominar o elemento Doton, afinal ambos exigiam uma grande quantidade de controle de Chakra. Isso tornava-o bastante versátil, especialmente em situações de combate, sendo assim era comum que ele participasse de missões com diversos outros grupos. Seu sensei, como chamava Kaeshi, era um instrutor muito duro e severo, porém seu conhecimento sobre medicina era impressionante e Kira tentava absorver o máximo possível de cada uma das lições que tinha com ele… era raro conseguir tempo com o diretor do hospital, porém as poucas vezes que conseguira ele se preocupava em tentar tirar o máximo de dúvidas que tinha. Ele não havia se esquecido de sua promessa para Jin, sendo assim também estudou bastante sobre ciência e pesquisas na área, procurando por formas de desenvolver um tratamento para a doença que acometia a mulher.
+
+Porém a sua vida iria mudar para sempre naquele dia, em um pequeno vilarejo no País da Grama. Era para ser uma missão Rank B de rotina para o  “Time Yashima”, era como o quarteto fora chamado pelos últimos 2 anos. Estavam seguindo o rastro de um grupo de bandidos que estavam extorquindo os moradores do lugar, a missão era direta: encontrar o grupo e eliminá-los. Ao chegar no local, houve a primeira estranheza logo de cara, afinal estava completamente deserto. Andaram um pouco,com os olhos de Sawaka não conseguindo ver ninguém naquele local, mas não havia uma única alma viva ali, “Onde estão os moradores?” era a pergunta que faziam. A garota viu uma estranha massa de Chakra que cobria o prédio principal da vila, porém nem mesmo seus olhos conseguiam ver o que havia ali dentro. Decidiram então investigar aquela situação e adentraram na construção. Após entrarem no prédio, a porta se fechou atrás deles e foi coberta por um tipo de barreira… as luzes então se acendem rapidamente, cegando-os por alguns momentos. Sawako usou seu Byakugan e enxergou aproximadamente 20 figuras que os cercavam. Pelo fluxo de chakra que havia em seus corpos, estava claro que era mais que simples bandidos... Haviam caído em uma armadilha.
+
+[June] -Formação defensiva! AGORA!!-
+
+O grupo rapidamente juntou-se costas com costas, se preparando para enfrentar a batalha que viria em seguida. Um dos inimigos gritou uma ordem para que os oponentes avançassem sobre eles e o caos se instaurou no lugar. Apesar da superioridade numérica os inimigos não eram muito fortes, além disso a Jounin do time era habilidosa e conseguia segurar bem os inimigos enquanto lutavam. Com a troca de golpes, não demorou e logo o local ficou tomado por chamas, que queimavam forte e enchiam o ar com fumaça e ruídos de madeira estalando. Foi no meio desse pequeno inferno que o desastre se abateu sobre o time. Em um momento de distração, uma lâmina atravessou o coração da líder do time e a matou instantaneamente. O que ninguém conseguiria prever foi a pessoa que desferiu o movimento fatal. O metal frio, que agora escorria e pingava com sangue quente, havia entrados pelas costas da Jounin e a mão que segurava a katana que desferiu o ataque era de ninguém menos que Jin. Enquanto desferia o golpe, o garoto visivelmente mostrava uma expressão triste em seu rosto e uma lágrima caia de seus olhos. Kira esstava de costas no momento do golpe, porém Sawako havia visto tudo com seu doujutsu.
+
+[Sawako] -JIN?!?! O QUE ESTÁ FAZENDO?!?!-
+
+Sem falar mais uma palavra o garoto puxou sua lâmina do corpo sem vida da Jounin, fazendo sangue respingar no chão, enquanto empurrava para longe o mesmo. Com lágrimas em seus olhos, ele se colocou em posição de batalha e avançou juntamente com o restante dos atacantes em direção aos dois chuunins restantes. A batalha que antes estava acirrada tornou-se uma luta desesperada por sobrevivência. Kira e Sawako lutavam como podiam, porém estavam presos naquele lugar… não entendiam direito o que havia acabado de acontecer, porque seu amigo havia se virado contra eles? Quem eram aqueles inimigos? O que queriam? Eram muitas perguntas e nenhuma resposta. O fogo continuava consumindo forte o lugar, fazendo com que uma das vigas do teto, que estava em chamas, rachasse e caísse sobre Kira atingindo-lhe o rosto e derrubando-o no chão. 
+
+Seus olhos se fecharam por alguns momentos, mas assim que conseguiu recuperar a visão, imediatamente procurou por Sawako com os olhos porém a cena que viu ficaria marcada para sempre. Os inimigos cercaram e dominaram a garota, segurando-a imóvel no chão. Ela se debatia e tentava se desvencilhar, porém seus esforços eram em vão. Jin se aproximou dela, juntamente com um outro homem bem mais velho ao seu lado… devia ter na casa dos quarenta anos, com um rosto coberto de cicatrizes e em sua testa havia um protetor com o símbolo de Sunagakure riscado. Ele deu um tapinha nas costas do garoto, que desviava o olhar daquela cena e tentava ignorar o que acontecia…
+
+[???] -Bom trabalho, Jin-kun. Com isso nosso acordo está selado, você vai receber sua parte assim que voltarmos para a base.-
+
+O garoto apenas fechou os olhos e deu as costas, se afastando daquela cena. Kira tentava se lavantar, porém as forças haviam deixado o seu corpo. Não conseguia sentir nada do pescoço para baixo, como médico sabia o que aquilo significava. Provavelmente a viga, que estava sobre ele naquele momento, havia machucado muito mais que seu rosto… um dano na espinha, provavelmente, havia tornado-o tão útil quanto um saco de batatas… tentou concentrar seu 
+chakra Iryou na região para fazer um tipo de “emenda” de emergência, porém não seria tão simples assim. Ele não podia fazer a não ser olhar a cena que se desenrolava a sua frente. O homem misterioso se aproximou da garota, ficando por cima desta e se agachando próxima ao rosto dela, enquanto a garota se debatia ele colocou as mãos em sua bochecha e acariciou a lateral do seu rosto.
+
+[???] -Vamos acabar logo com isso, Hyuuga-chan. É uma pena, você seria uma mulher linda.-
+
+Sem fazer muita cerimônia, o homem moveu rapidamente sua mão e arrancou brutalmente um dos olhos da garota, colocando-o em um pote com algum tipo de líquido. Ela gritou com a dor e o sangue logo cobriu a maior parte de seu rosto e pescoço. Os homens seguraram a garota com ainda mais força enquanto ela se contorcia com a dor, o mesmo de antes então realizou o mesmo movimento e removeu o outro olho da garota. Levantando-se em seguida e se afastando, fazendo um sinal para o restante dos homens também saírem do local. Eles soltaram a garota, que nesse ponto não oferecia mais resistência, e sumiram em meio ao fogo que consumia o lugar. Se recuperando do choque, Sawako tentava tatear o local à sua volta… era a primeira vez que ela se encontrava em completa escuridão.
+
+[Kira] -Sawako, não se mecha!! Estou indo…-
+
+Falava o garoto enquanto tentava mover os músculos, em vão, sua mente gritava para seu corpo se levantasse e movesse porém não havia resposta dos músculos. A garota tentou se levantar e andou cambaleante, com a face e as roupas cobertas por sangue, antes tropeçar e cair no chão. Kira pode ver uma figura se aproximando dela em meio a fumaça, uma silhueta familiar em meio ao caos. Jin estava em pé ao lado da garota, que tentava se levantar novamente, derramando lágrimas por todo o rosto enquanto erguia a espada.
+
+[Jin] -Me desculpe, Sawako-chan… espero que você possa me perdoar um dia. Pelo menos posso te dar uma morte rápida e indolor.-
+
+Com essas palavras, ele desceu a lâmina rapidamente e separou a cabeça da garota do restante de seu corpo. Kira, vendo toda aquela cena e incapaz de fazer qualquer coisa, apenas conseguiu gritar a plenos pulmões.
+
+[Kira] -JIN!!!!!!!!!-
+
+O garoto, que estava com as mãos trêmulas depois do golpe, virou-se e viu seu melhor amigo preso em meio aos escombros. Começou a ir em sua direção, erguendo sua lâmina e se preparando para “terminar” o serviço. Porém por um desígnio do destino, uma parte do teto desabou entre os dois e impediu o avanço de Jin. Kira viu tudo ao seu redor ser consumido em fogo e fumaça, seguido apenas por escuridão. Ele acordaria várias dias depois, em uma cama de um local que conhecia muito bem. Estava de volta em Konoha, em uma das alas de internação do hospital da vila. Pouco depois dos eventos que aconteceram ali, uma chuva forte caiu sobre o lugar e apagou as chamas, o que acabou por salvar a vida de Kira, uma vez que a equipe de resgate de Konoha só chegou horas depois do transcorrido. Encontraram Kira desacordado entre os escombros e o levaram de volta para receber tratamento no hospital e uma cirurgia de emergência para reparar o dano em sua espinha.
+
+[b]Capítulo 4: Redenção e o florescer da Lótus[/b]
+
+Quando finalmente se recuperou e pode andar novamente, começou a fazer os trabalhos de fisioterapia para se recuperar dos movimentos. Foi um processo árduo e demorado, mas o garoto tinha força de vontade para se recuperar. Apesar disso, as pessoas ao seu redor nataram ele havia mudado completamente de personalidade. Antes um garoto alegre e “de bem com a vida”, Kira agora se tornara uma pessoa fechada e fria. Evitava o máximo de contato com as pessoas, limitando-se a interações profissionais e apenas o obrigatório para um bom convívio social. Não saia mais com as pessoas ou se divertia nas horas vagas… estava sempre estudando ou treinando. Afastou basicamente todas as pessoas que tentaram se aproximar e ajudá-lo de alguma coisa, com a única exceção sendo seu sensei no hospital Kaeshi. 
+
+Ao ler os relatórios, conseguiu ter uma boa ideia do que tinha acontecido. Aquela emboscada fora armada por um notório grupo de Nukenins que era contrário ao estabelecimento da União Shinobi, acreditando que só iria causar um enfraquecimento das vilas. Poucos dias depois do ocorrido, uma grande suma de dinheiro fora depositada no hospital em nome da mãe de Jin… o suficiente para pagar o seu tratamento pelo resto da vida. Não era preciso ser um gênio para entender o que havia acontecido, Jin havia vendido seus companheiros para conseguir o dinheiro pro tratamento de sua mãe… sendo que o principal alvo dos nukenins era justamente o Byakugan de Sawako. 
+
+Quase que diariamente Kira tinha pesadelos com fogo e sangue, sempre relembrando das cenas da emboscada e vendo a morte de seus amigos. Não conseguia aceitar que Jin havia feito aquelas coisas, devia ter algum outro motivo… não era possível. Ou talvez ele apenas não quisesse aceitar que havia sido traído justamente pela pessoa em que mais confiava. A medicina foi capaz de curar seu corpo com o tempo, porém não sua mente. Ao mesmo tempo que se afastou das pessoas, ele fez um juramento de que nunca mais deixaria alguém de seus times morrer novamente. Apesar da oferta de restauração e cirurgia plástica para apagar a cicatriz que havia ficado em seu rosto, ele recusou todas as ofertas e manteve a mesma… ele usava aquilo como um lembrete de seu juramento, toda vez que se olhasse no espelho lembraria do peso que carregava em seus ombros e de seu comprometimento.
+
+No fundo, porém, Kira sabia que força de vontade sozinha não seria o suficiente. Precisava do corpo e habilidades para acompanhar, de forma que pudesse manter seus companheiros vivos e protegê-los do perigo. Não sentia-se digno de pisar num campo de batalha de novo enquanto não fosse capaz de fazer algo tão simples. Procurou então pela única pessoa em que ainda confiava e com quem tinha algum tipo de laço, Kasara Kaeshi. Ele ficou de joelhos e implorou para que o mednin o treinasse, queria ficar forte o suficiente para poder proteger as pessoas ao seu redor… falou as palavras do fundo de seu coração e com uma determinação incomum em seu olhar. Após pedir por várias vezes, insistindo que Kaeshi o treinasse, o garoto finalmente conseguiu o que queria. Apesar de que as palavras do sensei, “o treinamento vai fazer desenhar estar morto”, nunca foram tão verdadeiras.
+
+Kira passou dois anos treinando diretamente sob a tutela de Kaeshi, passando por treinos e situações absurdas que poucos poderiam suportar. Qualquer pessoa que não tivesse uma determinação de ferro não iria conseguir aguentar o ritmo que o “médico” colocava para seu pupilo. Assim como ele havia dito, por muitas vezes Kira achou que ia morrer nos treinos e algumas vezes realmente quase morreu… só não chegou a passar “para o lado de lá” pois Kaeshi, ao mesmo tempo em que treinava o garoto até o limite, fazia questão de sempre tratar de seus ferimentos depois dos treinos. O sensei era estrito e rígido nas lições, porém sempre tinha uma palavra de sabedoria para o garoto… Kira aprendeu muito e se desenvolveu mais nesse período do que em qualquer outro de sua vida, aprendendo com Kaeshi técnicas avançadas de combate e até mesmo a “arte proibida” dos mednins. Porém o maior crescimento do jovem não foi como um shinobi, mas sim como pessoa. Sob a tutela do aprendiz de Tsunade, Kira não se tornou apenas um médico melhor e um lutador habilidoso, mas também alguém que carregava a Vontade do Fogo em seu coração. Apesar do passado sombrio, seu desejo de proteger as pessoas ao seu redor era o melhor exemplo daquela filosofia que permeava os shinobis de Konoha. 
+
+Eventualmente ele voltou a realizar missões com outros times de Konoha, mostrando muito mais maturidade e seriedade que antes. Apesar de ainda ter a postura fria e distante, ele se mostrava sempre muito preocupado com o bem-estar das pessoas ao seu redor, trabalhando sempre para manter o grupo em saúde impecável durante as missões. Por várias vezes ele se colocou na frente do perigo, protegendo outros enquanto arriscava a própria vida. Depois do período de escuridão que passou após a traição de Jin, ele havia renascido como uma nova pessoa que faria de tudo para proteger aqueles ao seu redor.
+
+[b]Capítulo 5: Batendo as portas da morte[/b]
+
+Kira havia recebido uma carta vinda de Shikamaru pedindo que ele se apresentasse para uma missão imediatamente. Não era algo tão incomum, afinal mednins pareciam estar sempre em falta em Konoha e era frequente que ele precisasse sair rapidamente para alguma delas. Ele estava no hospital, porém sempre deixava uma bolsa de equipamentos pronta para qualquer ocasião. Pegou o necessário, assinou alguns papéis que estavam faltando e saiu em direção ao escritório do Hokage. Ao chegar lá foi recebido pelo Nara, juntamente com um grupo de Jounins, que também haviam sido convocados para a missão. Aparentemente um grupo de nukenins havia sido avistado próximo da vila, sendo que uma equipe de emergência foi montada para neutraliza-los… até ai não era nada de novo, porém o que chamou a atenção de Kira é que o grupo era o mesmo que havia emboscado-o anos atrás.
+
+O sangue no corpo do mednin ferveu e seus punhos cerraram fortemente, fazendo com que uma gota de sangue surgisse por entre seus dedos e caiu no chão, fato que não passou despercebido pelo Nara, que apenas ergueu sua sobrancelha, de alguma forma era como se ele já estivesse esperando aquela reação. Apesar disso Kira manteve sua face impassível e fingiu que não estava sentindo nada. Após receber as instruções, o grupo partiu em direção ao local onde seria feito a emboscada. O grupo se posicionou e esperou os alvos aparecerem, assim que o inimigo estava em posição os shinobis de Konoha lançaram seu ataque. Apesar dos shinobis estarem em menor número, o efeito surpresa derrubou um bom número de inimigos na primeira onda de ataques. O combate que se seguiu, inicialmente ordenado, acabou se tornando um caos que se espalhou pela pequena clareira na floresta. Em meio a luta, Kira viu um rosto que ele jamais iria esquecer… o do homem que havia liderado o ataque naquele dia fatídico. Porém algo em seu rosto estava diferente, além de uma grande cicatriz em linha que cobria metade de sua face direita havia um olho branco circundado por veias saltadas em sua órbita. O mednin soltou um urro, enquanto sua face se transformava em uma expressão de pura raiva, e saltou em direção ao inimigo.
+
+[Kira] -MALDITO!!!! DEVOLVA O OLHO DELA!!!!!-
+
+Devido a presença do doujutsu, o homem pode ver claramente o avanço do garoto e se preparar para bloquear o ataque. Kira atacou com um simples soco, tentando atingir a face do inimigo, que foi bloqueado pela espada do homem. Apesar de simples, a combinação da força física de Kira aumentada pelo Doton, Domu e a velocidade de Lótus foi suficiente para gerar uma onda de impacto forte o suficiente para deslocar uma grande quantidade de ar e partir da lâmina do inimigo em frangalhos. Os dis então engajaram em um duelo que parecia estar a parte do restante daquele conflito… cada um dos golpes de Kira era carregado de raiva e ele parecia não se importar com os contra-golpes de seu oponente, estava tão focado em destruir seu inimigo que não ligava para os ferimentos que estavam recebendo.
+
+[???] -Ora ora… você não é aquele menino que era o amigo do Jin? Até que você é bom. Sabia que até hoje ele sofre achando que causou a morte de vocês? Se você quiser trocar de lado, posso arranjar uma reunião entre vocês… não ia ser emocionante? E ai, o que me diz? Ele também mudou muito, é o meu braço direito agora.- 
+
+Aquelas palavras atravessaram o coração Kira como uma estaca, a menção do nome de Jin fez com que uma torrente de emoções viessem a tona. Pior ainda, saber se eu antigo amigo havia se tornado um figurão em um grupo de nukenins era como mijar em cima de todas as memórias que haviam entre eles. Esse pequeno momento de distração foi o suficiente para que o inimigo atacasse e atravessasse uma kunai pelo peito de Kira, que já estava bastante ferido da luta. Certo de que isso o mataria, o homem abriu um leve sorrisinho feliz que seu plano de distração havia dado certo. Porém mesmo com o peito atravessado, o garoto não fraquejou e apenas murmurou baixinho… falando algo por entre os lábios.
+
+[Kira] -...como ousa…-
+
+[???] -Hã?? São suas ultimas palavras… fale mais alto.-
+
+[Kira] -COMO OUSA SUJAR O NOME DELE?!?!?!-
+
+Kira berrou enquanto seu corpo era tomado por diversas linhas verdes que irradiavam da tatuagem com o símbolo do Iryou-nin que era tatuado em seu braço direito. O homem saltou para trás rapidamente, com um olhar arregalado, enquanto via o garoto arrancar a kunai de seu peito como se fosse apenas um arranhão. Da ferida que havia sido feito, saia uma pequena fumaça enquanto esta, e as outras que haviam sido feitas durante a luta, se fechavam soltando uma pequena fumaça.
+
+[Kira] -VOU TE MANDAR PARA O INFERNO!!!!-
+
+Ele então avançou contra o homem com uma fúria avassaladora, derrubando praticamente tudo em seu caminho e desferindo golpes até que seu oponente estivesse no chão. Com sua força, Kira quebrou ambos os braços e pernas do inimigo e o derrubou no chão, subindo em cima desse e começou a socar o rosto dele enquanto perguntava.
+
+[Kira] -Onde ele está?! ONDE ESTÁ JIN?!?!-
+
+Ele repetiu várias vezes a pergunta, porém o homem não respondia e apenas dava um sorrisinho sarcástico. A cada pergunta Kira desferia um golpe no lado oposto ao Byakugan, acabando por desfigurar totalmente o rosto do inimigo. Vendo que seu inimigo estava próximo de perder a consciência devido aos ferimentos, o jovem mednin desativou seu jutsu e levou a mão direita até a bochecha do homem e começou a repetir o movimento que este havia feito anos atrás.
+
+[Kira] -Vamos acabar logo com isso, Nukenin-chan. Que pena, você ia ser um prisioneiro lindo.-
+
+O homem arregalou os olhos e sentiu seu coração disparar, sabendo exatamente o que estava prestes a acontecer. Kira ergeu a mão direita e, em um movimento rápido, arrancou o Byakugan da órbita em que estava. A dor foi o suficiente para fazer com que o homem entrasse em choque e desmaiasse. Kira estava prestes a mata-lo quando foi impedido de faze-lo por outros shinobis de Konoha… a batalha havia acabado e os nukenins haviam sido mortos ou capturados. Ainda que a contra-gosto, o garoto saiu de cima do inimigo e começou a tratar suas feridas e estabilizá-lo. Não por compaixão, mas porque queria entregá-lo para que a ANBU o interrogasse e descobrisse o paradeiro de Jin… se alguém sabia era aquele homem. Dias depois da batalha, veio a resposta que Kira antecipava mas ao mesmo tempo temia. Infelizmente Jin realmente havia se tornado um dos figurões daquele grupo de nukenins. 
+
+Apesar de ainda lamentar a morte de seus companheiros, quando Jin soube que Kira ainda estava vivo ele sentiu uma mistura de felicidade e tristeza. Apesar de estar feliz de saber que seu amigo ainda estava por aí, Jin sentia-se na obrigação de acabar com a sua vida… pois só assim seria capaz de cortar totalmente seus laços com Konoha e trilhar o caminho que havia escolhido. Kira, por sua vez, não desejava a morte de Jin porém sentia que era a sua obrigação, como ex-colega de time e amigo, impedir que o nukenin fizesse algum mal para Konoha. Os dois amigos agora estavam fadados a se reencontrar nos campos de batalha, mas dessa vez em lados opostos do confronto.
+
+[b]Epílogo: Um novo caminho[/b]
+
+Pouco tempo depois da batalha, Kira recebeu a notícia de que iria ser promovido a Jounin. Aparentemente uma combinação da falta de ninjas médicos nos altos escalões da vila e as boas recomendações, por parte de seu sensei e de outros shinobis com quem trabalhou, chegaram até os ouvidos de Shikamaru. A cerimônia de “graduação” foi simples, basicamente um aperto de mão e assinar alguns documentos foram o suficiente. O recém-graduado Jounin não sabia o que esperar do futuro, porém certamente seria um caminho tortuoso que o aguardava. [/QUOTE]
